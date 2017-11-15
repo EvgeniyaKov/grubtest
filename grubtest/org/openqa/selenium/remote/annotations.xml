@@ -1,0 +1,5 @@
+<root>
+    <item name='org.openqa.selenium.remote.RemoteWebDriver'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
